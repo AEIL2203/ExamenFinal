@@ -11,7 +11,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author tatua
+ * @author angel
  */
 public class Examen {
 
